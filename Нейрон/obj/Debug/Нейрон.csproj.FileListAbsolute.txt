@@ -1,0 +1,65 @@
+C:\Users\александр\Desktop\Нейрон\Нейрон\bin\Debug\Нейрон.exe.config
+C:\Users\александр\Desktop\Нейрон\Нейрон\bin\Debug\Нейрон.exe
+C:\Users\александр\Desktop\Нейрон\Нейрон\bin\Debug\Нейрон.pdb
+C:\Users\александр\Desktop\Нейрон\Нейрон\obj\Debug\Нейрон.csprojResolveAssemblyReference.cache
+C:\Users\александр\Desktop\Нейрон\Нейрон\obj\Debug\Нейрон.Form1.resources
+C:\Users\александр\Desktop\Нейрон\Нейрон\obj\Debug\Нейрон.Form2.resources
+C:\Users\александр\Desktop\Нейрон\Нейрон\obj\Debug\Нейрон.Properties.Resources.resources
+C:\Users\александр\Desktop\Нейрон\Нейрон\obj\Debug\Нейрон.csproj.GenerateResource.Cache
+C:\Users\александр\Desktop\Нейрон\Нейрон\obj\Debug\Нейрон.exe
+C:\Users\александр\Desktop\Нейрон\Нейрон\obj\Debug\Нейрон.pdb
+E:\Нейрон\Нейрон\bin\Debug\Нейрон.exe.config
+E:\Нейрон\Нейрон\obj\Debug\Нейрон.exe
+E:\Нейрон\Нейрон\obj\Debug\Нейрон.pdb
+E:\Нейрон\Нейрон\bin\Debug\Нейрон.exe
+E:\Нейрон\Нейрон\bin\Debug\Нейрон.pdb
+E:\Нейрон\Нейрон\obj\Debug\Нейрон.csprojResolveAssemblyReference.cache
+E:\Нейрон\Нейрон\obj\Debug\Нейрон.Form1.resources
+E:\Нейрон\Нейрон\obj\Debug\Нейрон.Form2.resources
+E:\Нейрон\Нейрон\obj\Debug\Нейрон.Properties.Resources.resources
+E:\Нейрон\Нейрон\obj\Debug\Нейрон.csproj.GenerateResource.Cache
+F:\Нейрон\Нейрон\bin\Debug\Нейрон.exe.config
+F:\Нейрон\Нейрон\obj\Debug\Нейрон.exe
+F:\Нейрон\Нейрон\obj\Debug\Нейрон.pdb
+F:\Нейрон\Нейрон\bin\Debug\Нейрон.exe
+F:\Нейрон\Нейрон\bin\Debug\Нейрон.pdb
+F:\Нейрон\Нейрон\obj\Debug\Нейрон.Form1.resources
+F:\Нейрон\Нейрон\obj\Debug\Нейрон.Form2.resources
+F:\Нейрон\Нейрон\obj\Debug\Нейрон.Properties.Resources.resources
+F:\Нейрон\Нейрон\obj\Debug\Нейрон.csproj.GenerateResource.Cache
+F:\Нейрон\Нейрон\bin\Debug\NeuronRecVeshTypesDatabase.accdb
+F:\Нейрон\Нейрон\obj\Debug\Нейрон.csprojResolveAssemblyReference.cache
+E:\Нейрон\Нейрон\bin\Debug\NeuronRecVeshTypesDatabase.accdb
+d:\Нейрон\Нейрон\bin\Debug\Нейрон.exe
+d:\Нейрон\Нейрон\obj\Debug\Нейрон.csprojResolveAssemblyReference.cache
+d:\Нейрон\Нейрон\obj\Debug\Нейрон.Form1.resources
+d:\Нейрон\Нейрон\obj\Debug\Нейрон.Form2.resources
+d:\Нейрон\Нейрон\obj\Debug\Нейрон.Properties.Resources.resources
+d:\Нейрон\Нейрон\obj\Debug\Нейрон.csproj.GenerateResource.Cache
+d:\Нейрон\Нейрон\bin\Debug\NeuronRecVeshTypesDatabase.accdb
+d:\Нейрон\Нейрон\bin\Debug\Нейрон.exe.config
+d:\Нейрон\Нейрон\bin\Debug\Нейрон.pdb
+d:\Нейрон\Нейрон\obj\Debug\Нейрон.exe
+d:\Нейрон\Нейрон\obj\Debug\Нейрон.pdb
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон\Нейрон\obj\Debug\Нейрон.csproj.AssemblyReference.cache
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон\Нейрон\obj\Debug\Нейрон.csproj.SuggestedBindingRedirects.cache
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон\Нейрон\obj\Debug\Нейрон.Form1.resources
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон\Нейрон\obj\Debug\Нейрон.Form2.resources
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон\Нейрон\obj\Debug\Нейрон.Properties.Resources.resources
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон\Нейрон\obj\Debug\Нейрон.csproj.GenerateResource.cache
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон\Нейрон\obj\Debug\Нейрон.csproj.CoreCompileInputs.cache
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон\Нейрон\obj\Debug\Нейрон.exe
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон\Нейрон\obj\Debug\Нейрон.pdb
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон (для выкладки)\Нейрон\obj\Debug\Нейрон.csproj.AssemblyReference.cache
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон (для выкладки)\Нейрон\obj\Debug\Нейрон.csproj.SuggestedBindingRedirects.cache
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон (для выкладки)\Нейрон\obj\Debug\Нейрон.Form1.resources
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон (для выкладки)\Нейрон\obj\Debug\Нейрон.Form2.resources
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон (для выкладки)\Нейрон\obj\Debug\Нейрон.Properties.Resources.resources
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон (для выкладки)\Нейрон\obj\Debug\Нейрон.csproj.GenerateResource.cache
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон (для выкладки)\Нейрон\obj\Debug\Нейрон.csproj.CoreCompileInputs.cache
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон (для выкладки)\Нейрон\obj\Debug\Нейрон.exe
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон (для выкладки)\Нейрон\obj\Debug\Нейрон.pdb
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон (для выкладки)\Нейрон\bin\Debug\NeuronRecVeshTypesDatabase.accdb
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон (для выкладки)\Нейрон\bin\Debug\Нейрон.exe.config
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон (для выкладки)\Нейрон\bin\Debug\Нейрон.exe
+C:\Users\Polin\Downloads\в смысле работать\ооп\Нейрон (для выкладки)\Нейрон\bin\Debug\Нейрон.pdb
